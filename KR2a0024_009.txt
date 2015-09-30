@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:20:46.764814
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR2a0024_WYG_009-1a>¶
 欽定四庫全書¶
 　南史卷九¶
@@ -632,6 +634,7 @@
 　¶
 　¶
 　南史卷九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR2a0024_WYG_009-36a>¶
 　南史卷九考證¶
 陳武帝紀封新枋縣子○陳書封新安子與此小異¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　南史卷九考證¶
-

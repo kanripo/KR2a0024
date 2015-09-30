@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:20:47.091781
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR2a0024_WYG_027-1a>¶
 欽定四庫全書¶
 　南史卷二十七¶
@@ -362,6 +364,7 @@
 著扵初筮元嘉之盛幸致宗臣言聽計從扵斯為重羙¶
 矣乎¶
 　南史卷二十七¶
+#+PROPERTY: JUAN 卷二十七考證
 <pb:KR2a0024_WYG_027-21a>¶
 　南史卷二十七考證¶
 孔靖傳言項羽神為卞山王○又一項羽神事¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　南史卷二十七考證¶
-

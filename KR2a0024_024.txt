@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 22:20:47.044019
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四
 <pb:KR2a0024_WYG_024-1a>¶
 欽定四庫全書¶
 　南史卷二十四¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　南史卷二十四¶
+#+PROPERTY: JUAN 卷二十四考證
 <pb:KR2a0024_WYG_024-24a>¶
 　南史卷二十四考證¶
 王延之傳即敕材官為起三間齋屋○材監本誤校今¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　南史卷二十四考證¶
-

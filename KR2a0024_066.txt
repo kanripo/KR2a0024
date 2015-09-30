@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 66
+#+DATE: 2015-08-24 22:20:47.876894
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十六
 <pb:KR2a0024_WYG_066-1a>¶
 欽定四庫全書¶
 　南史卷六十六¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　南史卷六十六¶
+#+PROPERTY: JUAN 卷六十六考證
 <pb:KR2a0024_WYG_066-32a>¶
 　南史卷六十六考證¶
 杜僧明傳武帝頓豫章命僧明為前驅○命陳書作㑹¶
@@ -596,4 +599,3 @@
 　¶
 　¶
 　南史卷六十六考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:20:48.146374
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR2a0024_WYG_078-1a>¶
 欽定四庫全書¶
 　南史卷七十八¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　南史卷七十八¶
+#+PROPERTY: JUAN 卷七十八考證
 <pb:KR2a0024_WYG_078-25a>¶
 　南史卷七十八考證¶
 林邑國傳故名曰沈香次浮者棧香○棧梁書作&KR0034;¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　南史卷七十八考證¶
-

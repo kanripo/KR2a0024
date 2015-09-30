@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 77
+#+DATE: 2015-08-24 22:20:48.125826
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七
 <pb:KR2a0024_WYG_077-1a>¶
 欽定四庫全書¶
 　南史卷七十七¶
@@ -704,6 +706,7 @@
 　¶
 　¶
 　南史卷七十七¶
+#+PROPERTY: JUAN 卷七十七考證
 <pb:KR2a0024_WYG_077-40a>¶
 　南史卷七十七考證¶
 戴法興傳使家人謹錄鑰牡○鑰監本訛籥今改从閣¶
@@ -722,4 +725,3 @@
 　改¶
 孔範傳曾祖景偉齊散騎常侍○監本缺曾字今增入¶
 　南史卷七十七考證¶
-

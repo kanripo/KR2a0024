@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:20:46.604106
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR2a0024_WYG_002-1a>¶
 欽定四庫金書¶
 　南史卷二¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　南史卷二¶
+#+PROPERTY: JUAN 卷二考證
 <pb:KR2a0024_WYG_002-35a>¶
 　南史卷二考證¶
 文帝紀冬十一月庚午以武都王世子楊𤣥為北秦州¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　南史卷二考證¶
-

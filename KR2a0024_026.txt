@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:20:47.074840
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR2a0024_WYG_026-1a>¶
 欽定四庫全書¶
 　南史卷二十六¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　南史卷二十六¶
+#+PROPERTY: JUAN 卷二十六考證
 <pb:KR2a0024_WYG_026-34a>¶
 　南史卷二十六考證¶
 袁顗傳以為不勞攻伐行自離散於是擁甲以待之○¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　南史卷二十六考證¶
-

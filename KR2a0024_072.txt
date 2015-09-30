@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 72
+#+DATE: 2015-08-24 22:20:48.022107
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十二
 <pb:KR2a0024_WYG_072-1a>¶
 欽定四庫全書¶
 　南史卷七十二¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　南史卷七十二¶
+#+PROPERTY: JUAN 卷七十二考證
 <pb:KR2a0024_WYG_072-35a>¶
 　南史卷七十二考證¶
 文學傳叙大則憲章典誥小則申抒性靈○憲監本訛¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　南史卷七十二考證¶
-

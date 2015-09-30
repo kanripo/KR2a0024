@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 45
+#+DATE: 2015-08-24 22:20:47.456827
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十五
 <pb:KR2a0024_WYG_045-1a>¶
 欽定四庫全書¶
 　南史卷四十五¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　南史卷四十五¶
+#+PROPERTY: JUAN 卷四十五考證
 <pb:KR2a0024_WYG_045-23a>¶
 　南史卷四十五考證¶
 王敬則傳敬則問我昔種楊桞樹今若大小長曜曰虜¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　南史卷四十五考證¶
-

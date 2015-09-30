@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:20:47.106477
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR2a0024_WYG_028-1a>¶
 欽定四庫全書¶
 　南史卷二十八¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　南史卷二十八¶
+#+PROPERTY: JUAN 卷二十八考證
 <pb:KR2a0024_WYG_028-19a>¶
 　南史卷二十八考證¶
 褚裕之傳與行參軍漏恭期合力大敗賊扵柯亭○期¶
@@ -344,4 +347,3 @@
 　¶
 　¶
 　南史卷二十八考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:20:46.574485
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR2a0024_WYG_001-1a>¶
 欽定四庫全書¶
 　南史卷一¶
@@ -704,6 +706,7 @@
 　¶
 　¶
 　南史卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR2a0024_WYG_001-40a>¶
 　南史卷一考證¶
 宋高祖紀裕字徳輿○輿監本訛興今從宋書¶
@@ -740,4 +743,3 @@
 　¶
 　¶
 　南史卷一考證¶
-

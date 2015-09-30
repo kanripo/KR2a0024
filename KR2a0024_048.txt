@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 48
+#+DATE: 2015-08-24 22:20:47.501592
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十八
 <pb:KR2a0024_WYG_048-1a>¶
 欽定四庫全書¶
 　南史卷四十八¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　南史卷四十八¶
+#+PROPERTY: JUAN 卷四十八考證
 <pb:KR2a0024_WYG_048-23a>¶
 　南史卷四十八考證¶
 陸慧曉傳父子真仕宋為海陵太守○海陵梁書作東¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　南史卷四十八考證¶
-

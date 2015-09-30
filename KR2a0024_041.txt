@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 41
+#+DATE: 2015-08-24 22:20:47.373444
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十一
 <pb:KR2a0024_WYG_041-1a>¶
 欽定四庫全書¶
 　南史卷四十一¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　南史卷四十一¶
+#+PROPERTY: JUAN 卷四十一考證
 <pb:KR2a0024_WYG_041-24a>¶
 　南史卷四十一考證¶
 始安王遥光傳太子右率左興盛屯東府門東籬門○¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　南史卷四十一考證¶
-

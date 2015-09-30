@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 65
+#+DATE: 2015-08-24 22:20:47.854159
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十五
 <pb:KR2a0024_WYG_065-1a>¶
 欽定四庫全書¶
 　南史卷六十五¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　南史卷六十五¶
+#+PROPERTY: JUAN 卷六十五考證
 <pb:KR2a0024_WYG_065-29a>¶
 　南史卷六十五考證¶
 遂興侯詳傳少出家為沙門○沙陳書作桑¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　南史卷六十五考證¶
-

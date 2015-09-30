@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:20:46.552054
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 目錄
 <pb:KR2a0024_WYG_000-1a>¶
 欽定四庫全書　　　　　史部一¶
 　南史目錄　　　　　　　正史類¶
@@ -668,6 +670,7 @@
 　　　荆雍州蠻　　　　豫州蠻¶
 　　西域¶
 　　　高昌　　　　　　滑¶
+#+PROPERTY: JUAN [提要]
 <pb:KR2a0024_WYG_000-38a>¶
 　　　呵跋檀　　　　　白題¶
 　　　龜兹　　　　　　于闐¶
@@ -721,4 +724,3 @@
 　　　　上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-

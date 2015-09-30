@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 49
+#+DATE: 2015-08-24 22:20:47.517262
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十九
 <pb:KR2a0024_WYG_049-1a>¶
 欽定四庫全書¶
 　南史卷四十九¶
@@ -506,6 +508,7 @@
 斌自宋至梁時移三代或以隱節取高或以文雅見重¶
 古人云立言立徳斯門其有之乎¶
 　南史卷四十九¶
+#+PROPERTY: JUAN 卷四十九考證
 <pb:KR2a0024_WYG_049-29a>¶
 　南史卷四十九考證¶
 庾杲之傳父粲為宋南郡王義宣丞相城局參軍○監¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　南史卷四十九考證¶
-

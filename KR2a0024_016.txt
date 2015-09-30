@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:20:46.906896
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR2a0024_WYG_016-1a>¶
 欽定四庫全書¶
 　南史卷十六¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　南史卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR2a0024_WYG_016-23a>¶
 　南史卷十六考證¶
 王鎮惡傳鎮惡以五月生家人以俗忌○五月下宋書¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　南史卷十六考證¶
-

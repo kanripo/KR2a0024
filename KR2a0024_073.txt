@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 73
+#+DATE: 2015-08-24 22:20:48.046317
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十三
 <pb:KR2a0024_WYG_073-1a>¶
 欽定四庫全書¶
 　南史卷七十三¶
@@ -614,6 +616,7 @@
 卷¶
 　¶
 　南史卷七十三¶
+#+PROPERTY: JUAN 卷七十三考證
 <pb:KR2a0024_WYG_073-35a>¶
 　南史卷七十三考證¶
 孫法宗傳一境賴之○監本缺賴字今増入¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　南史卷七十三考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 51
+#+DATE: 2015-08-24 22:20:47.560482
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十一
 <pb:KR2a0024_WYG_051-1a>¶
 欽定四庫全書¶
 　南史卷五十一¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　南史卷五十一¶
+#+PROPERTY: JUAN 卷五十一考證
 <pb:KR2a0024_WYG_051-31a>¶
 　南史卷五十一考證¶
 吳平侯景傳梁武帝從父弟也○從父弟監本誤從弟¶
@@ -560,4 +563,3 @@
 　¶
 　¶
 　南史卷五十一考證¶
-

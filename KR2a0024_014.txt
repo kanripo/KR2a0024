@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:20:46.846711
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR2a0024_WYG_014-1a>¶
 欽定四庫全書¶
 　南史卷十四¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　南史卷十四¶
+#+PROPERTY: JUAN 卷十四考證
 <pb:KR2a0024_WYG_014-43a>¶
 　南史卷十四考證¶
 文帝十九男傳陳脩容生東海王禕○東海目録及本¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　南史卷十四考證¶
-

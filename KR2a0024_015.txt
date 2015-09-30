@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:20:46.887982
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR2a0024_WYG_015-1a>¶
 欽定四庫全書¶
 　南史卷十五¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　南史卷十五¶
+#+PROPERTY: JUAN 卷十五考證
 <pb:KR2a0024_WYG_015-34a>¶
 　南史卷十五考證¶
 劉穆之傳力敵勢均終相吞咀○咀監本訛阻今改正¶
@@ -614,4 +617,3 @@
 　字¶
 　¶
 　南史卷十五考證¶
-

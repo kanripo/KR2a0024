@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:20:47.717894
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR2a0024_WYG_059-1a>¶
 欽定四庫全書¶
 　南史卷五十九¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　南史卷五十九¶
+#+PROPERTY: JUAN 卷五十九考證
 <pb:KR2a0024_WYG_059-23a>¶
 　南史卷五十九考證¶
 江淹傳豫三五賤伎之末○五閣本注一作王¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　南史卷五十九考證¶
-

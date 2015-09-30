@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 63
+#+DATE: 2015-08-24 22:20:47.808117
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十三
 <pb:KR2a0024_WYG_063-1a>¶
 欽定四庫全書¶
 　南史卷六十三¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　南史卷六十三¶
+#+PROPERTY: JUAN 卷六十三考證
 <pb:KR2a0024_WYG_063-21a>¶
 　南史卷六十三考證¶
 王僧辯傳既至盆口與僧辯㑹於白茅洲為盟○陳書¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　南史卷六十三考證¶
-

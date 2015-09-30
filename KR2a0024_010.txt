@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:20:46.781744
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0024_WYG_010-1a>¶
 欽定四庫全書¶
 　南史卷十¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　南史卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR2a0024_WYG_010-23a>¶
 　南史卷十考證¶
 宣帝紀乙未桃根又上織成羅紋錦被表各二詔於雲¶
@@ -416,4 +419,3 @@
 　作斗盖升斗二字古文相似易致訛也¶
 　¶
 　南史卷十考證¶
-

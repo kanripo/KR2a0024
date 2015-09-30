@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:20:46.719775
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0024_WYG_007-1a>¶
 欽定四庫全書¶
 　南史卷七¶
@@ -434,6 +436,7 @@
 失所而以後嗣失之未有自己而得自己而喪追蹤徐¶
 偃之仁以致窮門之酷可為深痛可為至戒者乎¶
 　南史卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR2a0024_WYG_007-25a>¶
 　南史卷七考證¶
 武帝紀三月乙卯巴陵王蕭屏薨○乙夘梁書作己夘¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　南史卷七考證¶
-

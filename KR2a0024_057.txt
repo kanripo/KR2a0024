@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:20:47.669100
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十七
 <pb:KR2a0024_WYG_057-1a>¶
 欽定四庫全書¶
 　南史卷五十七¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　南史卷五十七¶
+#+PROPERTY: JUAN 卷五十七考證
 <pb:KR2a0024_WYG_057-28a>¶
 　南史卷五十七考證¶
 沈約傳林子輙摧鋒居前○摧監本作推今改从閣本¶
@@ -506,4 +509,3 @@
 家事必先諮而後行○先諮監本誤元詔今改从閣本¶
 交游不雜○監本脱不雜二字今増入¶
 　南史卷五十七考證¶
-

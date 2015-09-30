@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 55
+#+DATE: 2015-08-24 22:20:47.634710
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR2a0024_WYG_055-1a>¶
 欽定四庫全書¶
 　南史卷五十五¶
@@ -578,6 +580,7 @@
 絢實典其事互有厥勞寵進宜矣先是鎭星守天江而¶
 堰實興退舍而決豈人事乎其天道也¶
 　南史卷五十五¶
+#+PROPERTY: JUAN 卷五十五考證
 <pb:KR2a0024_WYG_055-33a>¶
 　南史卷五十五考證¶
 王茂傳字休連○連梁書作逺¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　南史卷五十五考證¶
-

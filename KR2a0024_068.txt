@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 68
+#+DATE: 2015-08-24 22:20:47.928743
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十八
 <pb:KR2a0024_WYG_068-1a>¶
 欽定四庫全書¶
 　南史卷六十八¶
@@ -308,6 +310,7 @@
 不致公輔惜矣沈陸所以見重固亦雅望之所致焉¶
 　¶
 　南史卷六十八¶
+#+PROPERTY: JUAN 卷六十八考證
 <pb:KR2a0024_WYG_068-18a>¶
 　南史卷六十八考證¶
 蔡景歴傳景歴對使人答書筆不停輟文無所改○筆¶
@@ -326,4 +329,3 @@
 　¶
 　¶
 　南史卷六十八考證¶
-

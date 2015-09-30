@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:20:47.138812
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR2a0024_WYG_030-1a>¶
 欽定四庫全書¶
 　南史卷三十¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　南史卷三十¶
+#+PROPERTY: JUAN 卷三十考證
 <pb:KR2a0024_WYG_030-25a>¶
 　南史卷三十考證¶
 何尚之傳尚之立身簡約車服率素○簡監本作節今¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　南史卷三十考證¶
-

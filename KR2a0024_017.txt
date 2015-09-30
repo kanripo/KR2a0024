@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:20:46.921382
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR2a0024_WYG_017-1a>¶
 欽定四庫全書¶
 　南史卷十七¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　南史卷十七¶
+#+PROPERTY: JUAN 卷十七考證
 <pb:KR2a0024_WYG_017-23a>¶
 　南史卷十七考證¶
 劉懷肅傳桓石綏司馬國璠陳襲於胡桃山聚衆為寇¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　南史卷十七考證¶
-

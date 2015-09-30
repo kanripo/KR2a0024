@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 56
+#+DATE: 2015-08-24 22:20:47.653376
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十六
 <pb:KR2a0024_WYG_056-1a>¶
 欽定四庫全書¶
 　南史卷五十六¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　南史卷五十六¶
+#+PROPERTY: JUAN 卷五十六考證
 <pb:KR2a0024_WYG_056-24a>¶
 　南史卷五十六考證¶
 張緬傳俄復舊任○舊任閣本作為真¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　南史卷五十六考證¶
-

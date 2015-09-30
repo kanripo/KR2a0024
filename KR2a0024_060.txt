@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 60
+#+DATE: 2015-08-24 22:20:47.733610
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十
 <pb:KR2a0024_WYG_060-1a>¶
 欽定四庫全書¶
 　南史卷六十¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　南史卷六十¶
+#+PROPERTY: JUAN 卷六十考證
 <pb:KR2a0024_WYG_060-30a>¶
 　南史卷六十考證¶
 傅昭傳父淡善三禮知名宋世事宋竟陵王誕○事監¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　南史卷六十考證¶
-

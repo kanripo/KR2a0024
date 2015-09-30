@@ -1,12 +1,15 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:20:46.693397
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [考證]
 <pb:KR2a0024_WYG_006-1a>¶
 　　謹案卷四第十頁後七行公忠誠慷慨刋本誠訛¶
 　　　議據監本改¶
 　　第十六頁前四行遣兼太保司空褚彦回刋本遣¶
 　　　訛遺今¶
+#+PROPERTY: JUAN 卷六
 <pb:KR2a0024_WYG_006-2a>¶
 欽定四庫全書¶
 　南史卷六¶
@@ -655,6 +658,7 @@
 　¶
 　¶
 　南史卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR2a0024_WYG_006-38a>¶
 　南史卷六考證¶
 梁武帝紀兩骻駢骨項上隆起○項梁書作頂今各本¶
@@ -673,4 +677,3 @@
 冬十月乙未以呉郡太守袁昻為兼尚書右僕射○十¶
 　月梁書作十一月¶
 　南史卷六考證¶
-

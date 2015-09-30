@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 79
+#+DATE: 2015-08-24 22:20:48.165199
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十九
 <pb:KR2a0024_WYG_079-1a>¶
 欽定四庫全書¶
 　南史卷七十九¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　南史卷七十九¶
+#+PROPERTY: JUAN 卷七十九考證
 <pb:KR2a0024_WYG_079-24a>¶
 　南史卷七十九考證¶
 新羅傳梁普通二年王姓募名泰始使隨百濟獻方物¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　南史卷七十九考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 南史
-#+DATE: 2015-09-23 09:41:56
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:20:47.188678
+#+PROPERTY: ID KR2a0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR2a0024_WYG_033-1a>¶
 欽定四庫全書¶
 　南史卷三十三¶
@@ -596,6 +598,7 @@
 之美迹其行事何利害之相傾徐廣動不違仁義兼儒¶
 行鮮之時稱格佞斯不佞矣松之雅道為貴寔光載徳¶
 承天素訓所資無慙舅氏美矣乎¶
+#+PROPERTY: JUAN 卷三十三考證
 <pb:KR2a0024_WYG_033-34a>¶
 　南史卷三十三考證¶
 范泰傳上每優容之○容監本訛遊今改从宋書¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　南史卷三十三考證¶
-
